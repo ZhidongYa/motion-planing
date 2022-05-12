@@ -1,0 +1,23 @@
+#Inventor V1.0 ascii
+
+Separator {
+
+   Units {
+            units MILLIMETERS
+    }
+    BaseColor
+    {
+     rgb 1 0 0 
+    }
+
+    Translation{
+         translation 0 0 50
+    }
+
+    Cube {
+        width 1000
+        height 200
+        depth 100
+   }
+
+}

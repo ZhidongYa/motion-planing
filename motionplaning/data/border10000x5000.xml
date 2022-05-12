@@ -1,0 +1,6 @@
+<Obstacle name='border'>
+	<Visualization>
+                <File type='inventor'>border10000x5000.iv</File>
+		<UseAsCollisionModel/>
+	</Visualization>
+</Obstacle>

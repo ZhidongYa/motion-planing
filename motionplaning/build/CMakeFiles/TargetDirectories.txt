@@ -1,0 +1,4 @@
+/common/homes/students/rp7b/versuch7/build/CMakeFiles/rebuild_cache.dir
+/common/homes/students/rp7b/versuch7/build/CMakeFiles/PathPlanning.dir
+/common/homes/students/rp7b/versuch7/build/CMakeFiles/edit_cache.dir
+/common/homes/students/rp7b/versuch7/build/CMakeFiles/PathPlanning_autogen.dir

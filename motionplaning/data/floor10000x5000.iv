@@ -1,0 +1,19 @@
+#Inventor V1.0 ascii
+
+Separator {
+
+   Units {
+            units MILLIMETERS
+    }
+
+    Translation{
+            translation 2500 5000 -5
+    }
+    Cube {
+        width 5000
+        height 10000
+        depth 10
+   }
+
+
+}

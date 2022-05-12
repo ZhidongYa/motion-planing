@@ -1,0 +1,30 @@
+#Inventor V1.0 ascii
+
+Separator {
+
+   Units {
+            units MILLIMETERS
+    }
+
+    BaseColor
+    {
+     rgb 1 0 0 
+    }
+
+    Translation{
+         translation 0 0 50
+    }
+
+    RotationXYZ
+    {
+        axis X
+        angle 1.57
+    }
+
+
+    Cylinder {
+        radius 500
+        height 100
+   }
+
+}

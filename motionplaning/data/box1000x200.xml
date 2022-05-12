@@ -1,0 +1,6 @@
+<Obstacle name='Box_1m'>
+	<Visualization>
+                <File type='inventor'>box1000x200.iv</File>
+		<UseAsCollisionModel/>
+	</Visualization>
+</Obstacle>

@@ -1,0 +1,6 @@
+<Obstacle name='Cylinder_1m'>
+	<Visualization>
+                <File type='inventor'>cylinder1000.iv</File>
+		<UseAsCollisionModel/>
+	</Visualization>
+</Obstacle>
